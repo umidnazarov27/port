@@ -1,0 +1,19 @@
+{
+  "name": "port",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umidnazarov27/port.git"
+  },
+  "author": "Umid Nazarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umidnazarov27/port/issues"
+  },
+  "homepage": "https://github.com/umidnazarov27/port#readme"
+}
